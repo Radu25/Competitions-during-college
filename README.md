@@ -5,5 +5,7 @@
 - 22-23 iulie -> Romanian Cyber Security Challenge - RoCSC Qualification - https://github.com/Radu25/ConcursROCSC2022  
 - 30 septembrie - 1 octombrie 2022 - DefCamp Capture the Flag 2022 - https://github.com/Radu25/ConcursD-CTF2022  
 - 4-6 octombrie 2022 -> Cydex - https://github.com/Radu25/ConcursCydex2022  
+- 5 octombrie 2022 - 24 ianuarie 2023 -> SIS Lab CTF - https://github.com/Radu25/SISLabCTF  
 
+ 
 
