@@ -6,6 +6,7 @@
 - 30 septembrie - 1 octombrie 2022 - DefCamp Capture the Flag 2022 - https://github.com/Radu25/ConcursD-CTF2022  
 - 4-6 octombrie 2022 -> Cydex - https://github.com/Radu25/ConcursCydex2022  
 - 5 octombrie 2022 - 24 ianuarie 2023 -> SIS Lab CTF - https://github.com/Radu25/SISLabCTF2022    
-- 6 noiembrie 2022 - LIRO -> https://github.com/Radu25/ConcursLIRO2022
+- 6 noiembrie 2022 - LIRO -> https://github.com/Radu25/ConcursLIRO2022,  https://github.com/LiroBenchmark/nlp-hackathon-2022/tree/main/upload  
+
  
 
