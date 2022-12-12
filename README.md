@@ -9,5 +9,5 @@
 - 6 noiembrie 2022 - LIRO -> https://github.com/Radu25/ConcursLIRO2022,  https://github.com/LiroBenchmark/nlp-hackathon-2022/tree/main/upload  
 - 10-11 noiembrie 2022 - CTF Suceava (team MTA1) -> https://github.com/Radu25/ConcursCTFSuceava2022/tree/main 
  https://ctf.usv.ro/CTF-2022_Contest_Final_Ranking.pdf  
- - 19-20 noiembrie 2022 -> DevHacks Hackathon -> https://github.com/Radu25/ConcursDevHacks2022  
+ - 19-20 noiembrie 2022 -> DevHacks Hackathon (locul 3 - with Sava) -> https://github.com/Radu25/ConcursDevHacks2022  
 
